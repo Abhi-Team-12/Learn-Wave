@@ -1,6 +1,6 @@
-This is a Lerning project.
-Project Topic name => Online Learning Plateform.
-Project Tilte name => Learn wave
+This is a lerning project.
+Project Topic name => Online Learning plateform.
+Project tilte name => Learn wave
 Project Team name => 
 Project Member name =>
 1. Abhishek Singh (Government Polytechnic Aadampur Tarabganj Gonda)
