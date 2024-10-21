@@ -1,8 +1,8 @@
-This is a learning project
-Project Topic == online learning Plateform
-Project Title == Learn wave
-Project Team name == 
-Project members name
+This is a learning project                                          
+Project Topic == Online Learning plateform                                
+Project Title == Learn wave                                        
+Project Team name ==                                               
+Project members name                                                
 1. Abhishek Singh (Government Polytechnic Aadampur Tarabganj Gonda)
 2. Astuti Yadav (Government Girls Polytechnic Gorakhpur)
 3. Abhay Singh (Jawaharlal Nehru Polytechnic Mahmudabaad Sitapur)
