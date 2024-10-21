@@ -3,20 +3,20 @@ Project Topic == Online Learning plateform
 Project Title == Learn wave                                        
 Project Team name ==                                           
 Project members name                                                
-1. Abhishek Singh (Government Polytechnic Aadampur Tarabganj Gonda)
+1. Abhishek Singh (Government Polytechnic Aadampur Tarabganj Gonda)            
 Linkedin Account => https://www.linkedin.com/in/royal-singh8924/
  
-2. Astuti Yadav (Government Girls Polytechnic Gorakhpur)
+2. Astuti Yadav (Government Girls Polytechnic Gorakhpur)                
 Linkedin Account => https://www.linkedin.com/in/astuti-yadav-55b32a314/
 
-3. Abhay Singh (Jawaharlal Nehru Polytechnic Mahmudabaad Sitapur)
+3. Abhay Singh (Jawaharlal Nehru Polytechnic Mahmudabaad Sitapur)       
 Linkedin Account => https://www.linkedin.com/in/abhay-singh-08a726325/
 
-4. Anjali Kumari (Government Polytechnic Varanasi)
+4. Anjali Kumari (Government Polytechnic Varanasi)                      
 Linkedin Account => https://www.linkedin.com/in/anjali-kumari-374a09324/
 
-5. Kashish Dwivedi (Government Polytechnic Aadampur Tarabganj Gonda)
+5. Kashish Dwivedi (Government Polytechnic Aadampur Tarabganj Gonda)    
 Linkedin Account => https://www.linkedin.com/in/kashish-dwivedi-2a36912aa/
 
-6. Karishma Singh (Government Polytechnic Aadampur Tarabganj Gonda)
+6. Karishma Singh (Government Polytechnic Aadampur Tarabganj Gonda)        
 Linkedin Account =>
