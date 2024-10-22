@@ -20,6 +20,6 @@
 <body>
 <header>
     <div class="header-img">
-        <img src="https://i.pinimg.com/originals/47/5b/59/475b59c61a6efb3ec8ac0a57e43fd03b.webp" alt="" width="20%">
+        <img src="images/welcome.png" alt="" width="20%" height="70px">
     </div>
 </header>
