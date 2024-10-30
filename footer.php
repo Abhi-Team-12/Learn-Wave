@@ -43,7 +43,7 @@
                 &copy2024 Learn wave Education Service Private Limited.
             </div>
         </footer>
-        <script src="js/script.js"></script>
+        <script src="javascript/script.js"></script>
     </body>
 
 </html>

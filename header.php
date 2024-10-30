@@ -23,7 +23,7 @@
                 <h1>Learn wave</h1>
             </div>
             <div class="menu-toggle" onclick="toggleMenu()">☰</div>
-            <div class="nav-link">
+            <div class="nav-link" id="nav-link">
                 <a href="">Home</a>
                 <a href="">Course</a>
                 <a href="">About</a>
