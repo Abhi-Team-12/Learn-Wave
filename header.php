@@ -18,11 +18,12 @@
             <img src="images/welcome.png" alt="" width="20%" height="70px">
         </div>
         <div class="nav">
-            <div class="nav-left">
+            <div class="nav-logo">
                 <img src="images/Logo.jpg" alt="">
                 <h1>Learn wave</h1>
             </div>
-            <div class="nav-right">
+            <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+            <div class="nav-link">
                 <a href="">Home</a>
                 <a href="">Course</a>
                 <a href="">About</a>

@@ -29,13 +29,13 @@
     z-index: 99;
 }
 
-.nav-left {
+.nav-logo {
     height: 70px;
     display: flex;
     gap: 20px;
 }
 
-.nav-left h1 {
+.nav-logo h1 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -43,20 +43,48 @@
     color: #a9a9a9;
 }
 
-.nav-right {
+.nav-link {
     display: flex;
     align-items: center;
     gap: 50px;
     font-size: 30px;
 }
 
-.nav-right a {
+.nav-link a {
     text-decoration: none;
     color: white;
 }
 
-.nav-right a:hover {
+.nav-link a:hover {
     color: rgb(170, 51, 51);
+}
+
+/* Responsive toggle button */
+.menu-toggle {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .nav-link {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        background-color: #333;
+    }
+
+    .nav-link.active {
+        display: flex;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
 }
 
 /* Header CSS End */
