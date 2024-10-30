@@ -22,4 +22,18 @@
     <div class="header-img">
         <img src="images/welcome.png" alt="" width="20%" height="70px">
     </div>
+    <div class="nav">
+        <div class="nav-left">
+            <img src="images/Logo.jpg" alt="">
+            <h1>Learn wave</h1>
+        </div>
+        <div class="nav-right">
+            <a href="">Home</a>
+            <a href="">Course</a>
+            <a href="">About</a>
+            <a href="">Contact</a>
+            <a href="">Sign up</a>
+            <a href="">Sign in</a>
+        </div>
+    </div>
 </header>

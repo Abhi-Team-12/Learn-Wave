@@ -1,5 +1,44 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.nav {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    background-color: rgb(20, 166, 224);
+}
+
+.nav-left {
+    height: 70px;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-left h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    color: #a9a9a9;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    font-size: 30px;
+}
+
+.nav-right a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-right a:hover {
+    color: rgb(170, 51, 51);
 }

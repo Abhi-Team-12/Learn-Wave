@@ -19,4 +19,4 @@ Linkedin Account => https://www.linkedin.com/in/anjali-kumari-374a09324/
 Linkedin Account => https://www.linkedin.com/in/kashish-dwivedi-2a36912aa/
 
 6. Karishma Singh (Government Polytechnic Aadampur Tarabganj Gonda)        
-Linkedin Account =>
+Linkedin Account => https://www.linkedin.com/in/karishma-singh-872bb22a9/
