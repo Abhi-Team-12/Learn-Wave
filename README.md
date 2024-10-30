@@ -1,8 +1,8 @@
 This is a learning project                                          
-Project Topic == Online Learning plateform                                
-Project Title == Learn wave                                        
-Project Team name ==                                           
-Project members name                                                
+Project Topic Name == Online Learning Plateform                                
+Project Title Name == Learn Wave                                        
+Project Team Name ==                                           
+Project Members name                                                
 1. Abhishek Singh (Government Polytechnic Aadampur Tarabganj Gonda)            
 Linkedin Account => https://www.linkedin.com/in/royal-singh8924/
  
