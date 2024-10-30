@@ -5,22 +5,28 @@
 }
 
 /* Header CSS Start */
+
 .header-img {
+    height: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto;
     width: 100%;
-    background-color: #a9a9a926;
+    background-color: #c1c0c0;
+    position: fixed;
+    z-index: 99;
 }
 
 .nav {
+    margin-top: 70PX;
     height: 70px;
     width: 100%;
     display: flex;
     justify-content: space-between;
     padding: 0 50px;
     background-color: rgb(20, 166, 224);
+    position: fixed;
+    z-index: 99;
 }
 
 .nav-left {
@@ -56,7 +62,12 @@
 /* Header CSS End */
 
 /* Index CSS Start */
-.hero{
+.navbar {
+    height: 140px;
+    width: 100%;
+}
+
+.hero {
     height: 100vh;
     width: 100%;
     background-color: lime;
@@ -65,13 +76,44 @@
 /* Index CSS End */
 
 /* Footer CSS Start */
-.footer{
-    height: 100px;
+footer {
+    background-color: cyan;
+}
+
+.footer {
+    height: 50vh;
     width: 100%;
-    background-color: rgb(241, 136, 136);
+    /* background-color: rgb(241, 136, 136); */
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    padding: 10px 70px;
+    gap: 20px;
+}
+
+.footer-link {
+    width: 25%;
+    padding-left: 10px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.footer-link a {
+    text-decoration: none;
+}
+
+.term {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: start;
+    padding: 20px;
+}
+
+.term a {
+    text-decoration: none;
 }
 
 /* Footer CSS End */

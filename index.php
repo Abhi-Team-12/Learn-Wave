@@ -1,5 +1,6 @@
 <?php include 'header.php'; ?>
 <main>
+    <section class="navbar"></section>
     <section class="hero">
 
     </section>
