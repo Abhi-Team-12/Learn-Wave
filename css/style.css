@@ -65,6 +65,13 @@
 /* Index CSS End */
 
 /* Footer CSS Start */
-
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(241, 136, 136);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 /* Footer CSS End */
